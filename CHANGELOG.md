@@ -1,6 +1,6 @@
 # Changelog
 
-## v??? (not published yet)
+## v5.0.0 (not published yet)
 
 ### Features
 
@@ -12,6 +12,10 @@
 * Updating dependencies
 * Message near the diagnostic button to suggest to refresh the page if not working.
 * New pl translations. Thanks [mkljczk](https://github.com/mkljczk)
+
+### Breaking changes
+
+* If you have some CSS customization for the plugin, it may be broken.
 
 ## v4.0.2
 
